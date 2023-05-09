@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c72d6753-155b-4f5b-a4fa-31dd7b450704" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/snacks_project/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snacks_project/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snacks_project/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snacks_project/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snacks_project/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snacks_project/.idea/snacks_project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snacks_project/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/drf-api-permissions-postgres.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/drf-api-permissions-postgres.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snacks_project/snacks/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/snacks_project/snacks/tests.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +33,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -45,6 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683598351741</updated>
       <workItem from="1683598353220" duration="14000" />
+      <workItem from="1683606938163" duration="860000" />
     </task>
     <servers />
   </component>
